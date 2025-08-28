@@ -59,7 +59,9 @@ Trabalho da disciplina de Aprendizado de Máquina
 
 --------
 <p>Exemplo de funcionamento, apresentando a o desempenho da rede utilizada identificando o número 5</p>
+```
 <img width="1234" height="583" alt="image" src="https://github.com/user-attachments/assets/d87ce1f6-0a7d-4bcd-9f17-f58bba363f7e" />
+--------
 <img width="1234" height="583" alt="image" src="https://github.com/user-attachments/assets/74561f8a-08f2-4d44-bab3-be117b0ddaf0" />
 
 
